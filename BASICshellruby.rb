@@ -1,3 +1,5 @@
+
+#lina grafica iniziale
 prompt = "> "
 
 print prompt
