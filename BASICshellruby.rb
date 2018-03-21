@@ -1,6 +1,6 @@
 
-#lina grafica iniziale
-prompt = "> "
+#altro test grafico
+prompt = "_ù_ù_ "
 
 print prompt
 
